@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, the synthesized stimulus set, or the waveform_similarity()
+  workflow, please cite this archive. Once the accompanying paper is published,
+  please cite the paper as well.
+title: >-
+  Code and data for "Waveform-based acoustic analysis is sensitive to acoustic
+  fine structure to a similar degree as birds, while traditional techniques are not"
+type: software
+authors:
+  - family-names: McLean
+    given-names: Celia R.
+    affiliation: Department of Psychology, Cornell University, Ithaca NY, USA
+  - family-names: Odom
+    given-names: Karan J.
+    affiliation: >-
+      Department of Biological Sciences, University of the Pacific,
+      Stockton CA, USA
+  - family-names: Araya-Salas
+    given-names: Marcelo
+    affiliation: >-
+      Centro de Investigacion en Neurociencias & Escuela de Biologia,
+      Universidad de Costa Rica, San Jose, Costa Rica
+    email: marcelo.araya@ucr.ac.cr
+  - family-names: Prior
+    given-names: Nora H.
+    affiliation: Department of Psychology, Cornell University, Ithaca NY, USA
+version: 1.0.0
+doi: 10.5281/zenodo.23677232
+date-released: '2026-10-26'
+license: GPL-2.0-or-later
+repository-code: https://github.com/maRce10/acoustic-fine-structure-methods
+url: https://marce10.github.io/acoustic-fine-structure-methods/
+abstract: >-
+  Code, synthesized Schroeder-phase stimuli and analysis reports accompanying a
+  comparison of nine acoustic structure quantification methods for their ability
+  to detect acoustic fine structure phase differences, and an evaluation of two
+  waveform-based methods under decreasing signal-to-noise ratios.
+keywords:
+  - bioacoustics
+  - acoustic fine structure
+  - temporal fine structure
+  - Schroeder-phase harmonic complexes
+  - waveform correlation
+  - dynamic time warping
+  - birdsong
+  - warbleR
+# After acceptance, add the paper as the preferred citation, e.g.:
+# preferred-citation:
+#   type: article
+#   title: >-
+#     Waveform-based acoustic analysis is sensitive to acoustic fine structure
+#     to a similar degree as birds, while traditional techniques are not
+#   authors:
+#     - family-names: McLean
+#       given-names: Celia R.
+#     - family-names: Odom
+#       given-names: Karan J.
+#     - family-names: Araya-Salas
+#       given-names: Marcelo
+#     - family-names: Prior
+#       given-names: Nora H.
+#   journal: Methods in Ecology and Evolution
+#   year: 2026
+#   doi: <journal DOI>
